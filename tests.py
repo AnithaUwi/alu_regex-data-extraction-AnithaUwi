@@ -24,8 +24,8 @@ class TestRegexPatterns(unittest.TestCase):
         self.assertEqual(extract_and_validate_credit_card_numbers(text), expected)
 
     def test_validate_email(self):
-        self.assertTrue(validate_email("support@example.com"))
-        self.assertTrue(validate_email("firstname.lastname@company.co.uk"))
+        self.assertTrue(validate_email("support@example.com "))
+        self.assertTrue(validate_email("firstname.lastname@company.co.uk "))
         self.assertFalse(validate_email("invalid-email"))
         self.assertFalse(validate_email("user@com"))
         self.assertFalse(validate_email("user@.com"))
