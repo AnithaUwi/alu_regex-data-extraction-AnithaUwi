@@ -56,7 +56,7 @@ This module contains functions for validating the extracted data. The following 
   - **Returns**: `True` if the credit card number is valid, `False` otherwise.
 
 ### 3. `__init__.py`
-This file is used to make the `src` directory a Python package. It can be left empty or used to define package-level variables and imports.
+This file is used to make the `src` directory a Python package. It can be left empty or used to define package-level variables and importss.
 
 ## Usage
 To use the functions defined in this module, you can import them in your Python scripts as follows:
