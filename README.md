@@ -1,6 +1,6 @@
-# ALU Regex Data Extraction
+ ALU Regex Data Extraction
+Anitha Uwimpuhwe: a.uwimpuhwe@alustudent.com
 
-**Elvin Cyubahiro**: e.cyubahiro@alustudent.com
 
 ## Overview
 This project is designed to extract and validate specific types of data from text using regular expressions. The data types include email addresses, URLs, phone numbers, and credit card numbers.
@@ -13,7 +13,7 @@ This project is designed to extract and validate specific types of data from tex
 Clone the repository:
 
 ```sh
-git clone https://github.com/Elvin100s/alu_regex-data-extraction-yourusername.git
+git clone https://github.com/AnithaUwi/alu_regex-data-extraction-AnithaUwi.git
 ```
 
 Navigate to the project directory:
@@ -89,7 +89,7 @@ alu_regex-data-extraction-yourusername/
 ```
 
 ## Contributors
-**Elvin Cyubahiro**: e.cyubahiro@alustudent.com
+AnithaUwimpuhwe : a.uwimpuhwe@alustudent.com
 
 ## Additional Notes
 - Ensure your regular expressions handle various formats and edge cases.
